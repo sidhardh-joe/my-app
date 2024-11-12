@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import image from './logo.jpeg'
+import image from './clikekart.png'
 
 function App() {
   return (
